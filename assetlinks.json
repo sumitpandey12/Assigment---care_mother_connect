@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.care_mother_connect",
+      "sha256_cert_fingerprints": [
+        "8F:89:DE:FA:B8:24:03:AC:6C:B7:82:98:2A:2A:25:1D:B8:9F:75:2B:28:0E:E8:96:BC:60:2F:1E:E1:B9:E4:03"
+      ]
+    }
+  }
+]
